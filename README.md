@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Online Store
 
-Things you may want to cover:
+* Ruby on Rails
+* SQLite3
 
-* Ruby version
+Admin:
 
-* System dependencies
+* Add products
+* Review orders
+* Update products
 
-* Configuration
+User:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Add to cart
+* Place Order
+* Search Product
